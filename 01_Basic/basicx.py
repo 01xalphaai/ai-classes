@@ -1,1 +1,2 @@
-dfd
+
+a = input("Enter the value of a:")
