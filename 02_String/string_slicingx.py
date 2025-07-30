@@ -8,11 +8,11 @@ print(Arpit[3])
 # White space - space which we give that counts in code
 
 # string slicing in positive
-slice = "Arpit, Shiv Singh"
+slice = "Arpit"
 
-print(slice[2:]) # 0:(n-1)
-print(slice[:5]) # 0:(n-1)
-print(slice[0:5]) # 0:(n-1)
+print(slice[2:])
+print(slice[:4]) # :(n-1)
+print(slice[1:4]) # 1:(n-1)
 
 # Negative indexing
 negind = "Apple"

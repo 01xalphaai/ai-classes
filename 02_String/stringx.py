@@ -8,7 +8,7 @@ b = 'this is "too good" to eat'
 c = '''Lorem Ipsum is "simply" dummy 'text' of the printing 
 and typesetting industry. print(a)Lorem Ipsum has be unchanged.'''
 
-print(c)
+print(a,b,c)
 
 # uppercase, lowercase, capatilize
 
