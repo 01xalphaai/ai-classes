@@ -1,4 +1,4 @@
-# Indexing
+# Positive Indexing
 Arpit = "Name"
 print(Arpit[0])
 print(Arpit[1])
@@ -14,6 +14,19 @@ print(slice[2:]) # 0:(n-1)
 print(slice[:5]) # 0:(n-1)
 print(slice[0:5]) # 0:(n-1)
 
-# string slicing in Negative
-negslice = "Apple"
+# Negative indexing
+negind = "Apple"
 
+print(negind[-1])
+print(negind[-2])
+print(negind[-3])
+print(negind[-4])
+print(negind[-5])
+
+# Negativ slicing in python
+
+negslic = "Orange"
+
+print("orange:", negslic[-3:])
+print("orange:", negslic[:-1])
+# print("orange:", negslic[-1:-3])
