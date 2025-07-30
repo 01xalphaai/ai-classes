@@ -18,4 +18,6 @@ shukla = "this is my surname. "
 shivbhaiya = "my teachers is very "
 quality = "kind and humble "
 print(a, b,v,f,y,i,w,e,arpit, shukla, shivbhaiya, quality)
-print (type (shukla))
+print (type (shukla)) 
+
+# updating

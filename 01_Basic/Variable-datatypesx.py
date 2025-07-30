@@ -27,3 +27,6 @@ a = 3 #this is an example of int type
 b = 3.4 #this is an exmaple of float type
 
 c = true/false #this is an example of boolean
+
+
+# udating
