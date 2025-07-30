@@ -31,4 +31,4 @@ print("orange:", negslic[-3:])
 print("orange:", negslic[:-1])
 # print("orange:", negslic[-1:-3])
 
-#upading
+#upadingd
