@@ -98,5 +98,3 @@ print(f.count("prashav"))
 print(g.endswith("."))
 print(h.startswith("."))
 print(i.replace("prashav","mahaveer"))
-
-
