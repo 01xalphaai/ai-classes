@@ -21,7 +21,7 @@ Test Question for Basic
 
 **3. Simple Calculator Using User Input**
       a) Calculator Program:
-            Write a simple Python program to take two numbers as input from the user and print their sum, difference, product, and quotient. Ensure the program handles division by zero               gracefully.
+            Write a simple Python program to take two numbers as input from the user and print their sum, difference, product, and quotient. Ensure the program handles division by zero gracefully.
 
       b) Type Casting in Calculator:
             Modify the calculator program to take the inputs as strings, convert them to integers, and then perform the operations.
@@ -41,9 +41,9 @@ Test Question for Basic
 
 **5. Combining String and Numerical Operations**
       a) String and Integer Operations:
-            Write a program that asks the user to input a number and then multiplies it by a constant string "5" (after converting the string to an integer). For example, if the user                 enters 10, the output should be 50.
+            Write a program that asks the user to input a number and then multiplies it by a constant string "5" (after converting the string to an integer). For example, if the user enters 10, the output should be 50.
             How would you take the user’s input as a number (say, x = 6) and append it to a string like "The result is: "?
 
 **6. String Manipulation with User Input**
       a) User Input and String Manipulation:
-            Write a program where the user is asked to enter their favorite hobby. The program should then print a message with the hobby in uppercase, reversed, and then the length of               the hobby string.
+            Write a program where the user is asked to enter their favorite hobby. The program should then print a message with the hobby in uppercase, reversed, and then the length of the hobby string.
