@@ -24,7 +24,7 @@ Test Question for Basic
             Write a simple Python program to take two numbers as input from the user and print their sum, difference, product, and quotient. Ensure the program handles division by zero gracefully.
 
       b) Type Casting in Calculator:
-            Modify the calculator program to take the inputs as strings, convert them to integers, and then perform the operations.
+            ******Modify the calculator program to take the inputs as strings, convert them to integers, and then perform the operations.******
 
 **4. Handling Negative and Positive Indices**
       a) Negative and Positive Indexing in Strings:
