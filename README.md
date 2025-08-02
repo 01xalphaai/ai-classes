@@ -13,7 +13,7 @@ Test Question for Basic
 **2. Taking User Input & Type Casting**
       a) Taking Input from the User:
             Write a Python program that takes a user’s first name and last name as input and prints their full name.
-            How would you take a user's age as input and print the user’s age after 5 years?
+            *****How would you take a user's age as input and print the user’s age after 5 years?******
 
       b) Type Casting:
             You have two variables: x = "25" (string) and y = 5 (integer). Write a program to add x and y after converting x to an integer.
